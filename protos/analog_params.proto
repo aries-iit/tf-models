@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AnalogParameters {
+    float voltage = 1;
+    float current = 2;
+}
